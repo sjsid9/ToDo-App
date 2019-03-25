@@ -1,5 +1,6 @@
 # ToDo-App
 App for making todo's list using SQLite databases in android
+### To be Released on Google Play
 
 #### App Components :-
 * Recycler View
@@ -17,3 +18,6 @@ App for making todo's list using SQLite databases in android
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = "app-screens/4.png" width = "225" height = "400" >
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = "app-screens/5.png" width = "225" height = "400" >
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = "app-screens/6.png" width = "225" height = "400" >
+
+
+Made in :heart: with coding by Siddhant
